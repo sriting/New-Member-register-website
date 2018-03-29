@@ -6,7 +6,7 @@ Technique： Front-end: ASP + Database: Access
 
 Online new member register website, 650+registrants, 1000+register records. 
 
-#####2016.08-2016.09 | 西浦数学社新社员线上报名系统 | 个人 | 开发者 
+##### 2016.08-2016.09 | 西浦数学社新社员线上报名系统 | 个人 | 开发者
 
 使用技术： 前端 ASP + 数据库 Access， 阿里云服务器 
 
@@ -14,9 +14,9 @@ Online new member register website, 650+registrants, 1000+register records.
 
 ![website1](website1.jpg)
 
-![website2](website2.jpg)
 
-![website3](website3.jpg)
 
-![website4](website4.jpg)
+![website3](website2.jpg)
+
+
 
